@@ -1,5 +1,5 @@
 def main():
-  print("Everthing fine!")
+  print("Everything fine!")
 
 
 main()
