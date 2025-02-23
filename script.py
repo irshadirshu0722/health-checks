@@ -9,6 +9,8 @@ def main():
     everything_ok = False
   if not everything_ok:
     sys.exit(1)
+  for check,msg in checks:
+    print(msg)
   print("Everything fine!")
   return
 
