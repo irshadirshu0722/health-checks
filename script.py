@@ -4,3 +4,4 @@ def main():
 
 print("Main function is going to run")
 main()
+print("We are not here")
