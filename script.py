@@ -25,6 +25,8 @@ def check_root_full():
 
 def check_cpu():
   """ Return True if cpu working otherwise False"""
+def cpu_no_network():
+  """Return True if no network other False"""
 
 print("Main function is going to run")
 main()
