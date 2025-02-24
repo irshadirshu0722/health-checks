@@ -23,7 +23,8 @@ def check_root_full():
   print('this function will check root full')
   is_ok = False
 
-
+def check_cpu():
+  """ Return True if cpu working otherwise False"""
 
 print("Main function is going to run")
 main()
