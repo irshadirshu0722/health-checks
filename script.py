@@ -20,6 +20,7 @@ def main():
 
 def check_root_full():
   """ Returns True if the root partition is full, False otherwise"""
+  print('this function will check root full')
   
 
 
