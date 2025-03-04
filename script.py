@@ -23,10 +23,7 @@ def check_root_full():
   print('this function will check root full')
   is_ok = False
 
-def check_cpu():
-  """ Return True if cpu working otherwise False"""
-def cpu_no_network():
-  """Return True if no network other False"""
+
 
 main()
 
