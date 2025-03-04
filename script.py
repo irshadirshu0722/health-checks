@@ -28,8 +28,6 @@ def check_cpu():
 def cpu_no_network():
   """Return True if no network other False"""
 
-print("Main function is going to run")
 main()
-print("We are here")
-print("We are not here")
+
 
