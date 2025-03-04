@@ -25,6 +25,7 @@ def check_root_full():
 
 
 print("Hi everyone!")
+print("Hi guys")
 main()
 
 
