@@ -24,7 +24,7 @@ def check_root_full():
   is_ok = False
 
 
-
+print("Hi everyone!")
 main()
 
 
