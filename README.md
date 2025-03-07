@@ -1,8 +1,9 @@
 # health-checks
+
 Script that check health of the computer
 
-This repo will be populated with lots of fancy checks 
+This repo will be populated with lots of fancy checks
 
-There is a problem
+Currently the main script is health_check.py
 
-Are you fine
+this script will print "Everything fine" if all checks pass
